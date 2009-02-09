@@ -1,0 +1,7 @@
+This is a very basic coordinate library that understands the standard
+3-dimentional coordinate system with x,y,z components.  It is not as
+powerful or versitile as a rtue Vector implimentation but is optimixed
+instead to be able to write 3d code efficiently.
+
+Note that this code is not fast.  If you have need of faster code please
+find a c/java implimentation of a mathamatics library.
